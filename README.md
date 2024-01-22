@@ -1,13 +1,14 @@
-### 🔭 基本情况
+<h1 align="center">Hi 👋, I'm Cccolt</h1>
 
--  本科毕业于华南理工大学，目前仍在深造
-- RoboMaster 2021 赛季华南虎步兵机器人、英雄机器人视觉负责人，RoboMaster 2022、2023 赛季华南虎视觉组顾问
+<h3>🔭 Basic Situation</h3>
 
-[![zhaoxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoxi-scut&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grape+Nuts&size=25&pause=1000&color=7FF70D&center=true&vCenter=true&random=false&width=800&lines=Graduated+from+South+China+University+of+Technology" alt="Typing SVG" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi-scut&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=zhaoxi-scut&theme=github_dark&show_icons=true&include_all_commits=true" alt="zhaoxi-scut"/ ></p>
 
-### 💬 社交账号
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi-scut&theme=github_dark&layout=compact"/ ></p>
 
-[![bilibili](https://img.shields.io/badge/Bilibili-Cccolt-blue?logo=bilibili)](https://space.bilibili.com/497806944)
-![QQ](https://img.shields.io/badge/QQ-535394140-red?logo=tencentqq)
+<h3>💬 Social account</h3>
+
+- Bilibili: <a ref="https://space.bilibili.com/497806944">Cccolt</a>
+- QQ: 535394140
