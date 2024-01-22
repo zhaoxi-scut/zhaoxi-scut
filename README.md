@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cccolt</h1>
 
-<h3>🔭 Basic Situation</h3>
+<h3>🔭 Basic situation</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grape+Nuts&size=25&pause=1000&color=7FF70D&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Graduated+from+South+China+University+of+Technology" alt="Typing SVG" /></a>
 
